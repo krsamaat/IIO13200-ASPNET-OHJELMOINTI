@@ -5,7 +5,7 @@ Demo Saitti
 =====
 Satti-kansiossa on malliksi tehty website.
 
-Viikkotehtävien palauttamisesta
+Viikkotehtävien palauttaminen
 ====
 Viikkotehtävät kukin tekee itsenäisesti kotona/koulussa... Motto: tekemällä oppii!
    
