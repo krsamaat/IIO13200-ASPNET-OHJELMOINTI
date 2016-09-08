@@ -24,26 +24,24 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Saitti", "Saitti\", "{3E07E
 		SlnRelativePath = "Saitti\"
 	EndProjectSection
 EndProject
-Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Harjoitus_1", "\\storage\homes\H9574\Dox\Documents\Visual Studio 2015\WebSites\Harjoitus_1\", "{3413E3AD-44AA-4FC7-ABD1-CDD41C990B76}"
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Harjoitus_1(1)", "Harjoitus_1\", "{48A95ECA-F9A9-4F56-A92B-5DDB5FC41317}"
 	ProjectSection(WebsiteProperties) = preProject
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.2"
-		Debug.AspNetCompiler.VirtualPath = "/localhost_10925"
-		Debug.AspNetCompiler.PhysicalPath = "\\storage\homes\H9574\Dox\Documents\Visual Studio 2015\WebSites\Harjoitus_1\"
-		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_10925\"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_11783"
+		Debug.AspNetCompiler.PhysicalPath = "Harjoitus_1\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_11783\"
 		Debug.AspNetCompiler.Updateable = "true"
 		Debug.AspNetCompiler.ForceOverwrite = "true"
 		Debug.AspNetCompiler.FixedNames = "false"
 		Debug.AspNetCompiler.Debug = "True"
-		Release.AspNetCompiler.VirtualPath = "/localhost_10925"
-		Release.AspNetCompiler.PhysicalPath = "\\storage\homes\H9574\Dox\Documents\Visual Studio 2015\WebSites\Harjoitus_1\"
-		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_10925\"
+		Release.AspNetCompiler.VirtualPath = "/localhost_11783"
+		Release.AspNetCompiler.PhysicalPath = "Harjoitus_1\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_11783\"
 		Release.AspNetCompiler.Updateable = "true"
 		Release.AspNetCompiler.ForceOverwrite = "true"
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
-		VWDPort = "10925"
-		SlnRelativePath = "\\storage\homes\H9574\Dox\Documents\Visual Studio 2015\WebSites\Harjoitus_1\"
-		DefaultWebSiteLanguage = "Visual C#"
+		VWDPort = "11783"
 	EndProjectSection
 EndProject
 Global
@@ -56,10 +54,10 @@ Global
 		{3E07E2B3-CB80-4885-B897-D2149243510F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3E07E2B3-CB80-4885-B897-D2149243510F}.Release|Any CPU.ActiveCfg = Debug|Any CPU
 		{3E07E2B3-CB80-4885-B897-D2149243510F}.Release|Any CPU.Build.0 = Debug|Any CPU
-		{3413E3AD-44AA-4FC7-ABD1-CDD41C990B76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3413E3AD-44AA-4FC7-ABD1-CDD41C990B76}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3413E3AD-44AA-4FC7-ABD1-CDD41C990B76}.Release|Any CPU.ActiveCfg = Debug|Any CPU
-		{3413E3AD-44AA-4FC7-ABD1-CDD41C990B76}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{48A95ECA-F9A9-4F56-A92B-5DDB5FC41317}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48A95ECA-F9A9-4F56-A92B-5DDB5FC41317}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48A95ECA-F9A9-4F56-A92B-5DDB5FC41317}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{48A95ECA-F9A9-4F56-A92B-5DDB5FC41317}.Release|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
